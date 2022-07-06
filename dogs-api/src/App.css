@@ -1,0 +1,25 @@
+.card {
+  background-size: cover;
+}
+
+.card .d-flex {
+  min-height: 400px;
+}
+
+.form-floating {
+  width: 100%;
+}
+
+.btn-primary {
+  width: auto;
+}
+
+@media (min-width: 768px) {
+
+}
+
+@media (min-width: 992px) {
+  .form-floating {
+    width: 50%;
+  }
+}
